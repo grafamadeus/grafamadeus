@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ABFEF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+Python+Enthusiast;Building+Web+Apps+%26+Bots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ABFEF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+JS+Python+Enthusiast;Building+Web+Apps+%26+Bots" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raev.askat)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/askat-raev)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:grafakranime@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/yourusername)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/graf_amadeus)
   
 </div>
 
@@ -18,19 +18,19 @@
 const askat = {
     location: "Kyrgyzstan 🇰🇬",
     role: "Full-Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
+    code: ["JavaScript", "Python", "HTML/CSS"],
     technologies: {
         frontEnd: {
             js: ["React", "Node.js"],
-            css: ["Tailwind", "Bootstrap"]
+            css: ["Tailwind"]
         },
         backEnd: {
-            python: ["Telegram Bots", "Web Scraping", "FastAPI"],
-            js: ["Node.js", "Express"]
+            python: ["Telegram Bots", "Web Scraping"],
+            js: ["Node.js"]
         },
-        databases: ["MongoDB", "PostgreSQL", "SQLite"],
-        devOps: ["Docker", "Git", "GitHub Actions"],
-        tools: ["VS Code", "Figma", "Postman"]
+        databases: ["MySQL"],
+        devOps: ["Docker", "Git", "GitHub"],
+        tools: ["VS Code", "Figma"]
     },
     currentFocus: "Building scalable web applications and automation tools",
     openToCollaborate: true
@@ -51,7 +51,6 @@ const askat = {
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Backend & Tools
