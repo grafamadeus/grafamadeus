@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ABFEF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+JS+Python+Enthusiast;Building+Web+Apps+%26+Bots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3ABFEF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%26+JS+%26+Python+Enthusiast;Building+Web+Apps+%26+Bots" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -54,6 +54,7 @@ const askat = {
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Backend & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,14 +76,13 @@ const askat = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grafamadeus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=grafamadeus&theme=tokyonight&hide_border=true" height="170" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafamadeus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafamadeus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats" />
-</div>
-<div align="center">
-  [![codewars](https://www.codewars.com/users/grafamadeus/badges/large)](https://www.codewars.com/users/grafamadeus)
+  <a href="https://www.codewars.com/users/grafamadeus">
+    <img src="https://www.codewars.com/users/grafamadeus/badges/large" alt="CodeWars Badge" />
+  </a>
 </div>
 
 ## 📈 Contribution Graph
