@@ -79,11 +79,10 @@ const askat = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grafamadeus&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats" />
 </div>
-
-## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=grafamadeus&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophies" />
+  [![codewars](https://www.codewars.com/users/grafamadeus/badges/large)](https://www.codewars.com/users/grafamadeus)
 </div>
 
 ## 📈 Contribution Graph
