@@ -103,7 +103,7 @@ const askat = {
   
   **Open to freelance projects and collaboration opportunities**
   
-  ![Profile Views](https://visitcount.itsvg.in/api?id=grafamadeus&icon=5&color=6)
+  ![Profile Views](https://github.com/grafamadeus/)
   
 </div>
 
